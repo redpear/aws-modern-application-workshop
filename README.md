@@ -48,7 +48,6 @@ This workshop is offered in different programming languages so that you can choo
 * [**Go**](https://github.com/aws-samples/aws-modern-application-workshop/tree/go)
 * More coming soon!
 
-
 ### AWS Developer Center
 For more details on tools and services for developers provided by AWS, please visit our [Developer Center](https://developer.aws).<br/>
 For information on best practices for modern application development, please [visit here](https://aws.amazon.com/modern-apps/).
