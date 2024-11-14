@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "module-2", "module-2", "{2A637999-DD07-4047-A033-087A9132568F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModernWebAppNET", "module-2\webapi\ModernWebAppNET.csproj", "{EC2E6DF5-B796-4030-97AE-12AF4CBC44E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "module-5", "module-5", "{104F0AA0-5969-47FE-9BD9-D298E7016D84}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModernWebAppNET", "module-5\webapi\ModernWebAppNET.csproj", "{1835776E-774B-4169-991F-D567401E247C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "streaming_lambda", "module-5\streaming_lambda\streaming_lambda.csproj", "{AB79E3F8-118D-43D5-B7FE-F5EBF412ED1E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "module-4", "module-4", "{070DBEE6-96F1-444E-9E9F-380E40633947}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModernWebAppNET", "module-4\webapi\ModernWebAppNET.csproj", "{6A27441E-8F0A-4C0E-8A76-F6343B0FB719}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "module-3", "module-3", "{79B222A9-82A2-4CEC-86A7-B323F5D7E8A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModernWebAppNET", "module-3\webapi\ModernWebAppNET.csproj", "{A215260B-68CC-4FCC-BCE6-CA8CCB9C412C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC2E6DF5-B796-4030-97AE-12AF4CBC44E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2E6DF5-B796-4030-97AE-12AF4CBC44E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2E6DF5-B796-4030-97AE-12AF4CBC44E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2E6DF5-B796-4030-97AE-12AF4CBC44E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1835776E-774B-4169-991F-D567401E247C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1835776E-774B-4169-991F-D567401E247C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1835776E-774B-4169-991F-D567401E247C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1835776E-774B-4169-991F-D567401E247C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB79E3F8-118D-43D5-B7FE-F5EBF412ED1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB79E3F8-118D-43D5-B7FE-F5EBF412ED1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB79E3F8-118D-43D5-B7FE-F5EBF412ED1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB79E3F8-118D-43D5-B7FE-F5EBF412ED1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A27441E-8F0A-4C0E-8A76-F6343B0FB719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A27441E-8F0A-4C0E-8A76-F6343B0FB719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A27441E-8F0A-4C0E-8A76-F6343B0FB719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A27441E-8F0A-4C0E-8A76-F6343B0FB719}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A215260B-68CC-4FCC-BCE6-CA8CCB9C412C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A215260B-68CC-4FCC-BCE6-CA8CCB9C412C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A215260B-68CC-4FCC-BCE6-CA8CCB9C412C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A215260B-68CC-4FCC-BCE6-CA8CCB9C412C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EC2E6DF5-B796-4030-97AE-12AF4CBC44E5} = {2A637999-DD07-4047-A033-087A9132568F}
+		{1835776E-774B-4169-991F-D567401E247C} = {104F0AA0-5969-47FE-9BD9-D298E7016D84}
+		{AB79E3F8-118D-43D5-B7FE-F5EBF412ED1E} = {104F0AA0-5969-47FE-9BD9-D298E7016D84}
+		{6A27441E-8F0A-4C0E-8A76-F6343B0FB719} = {070DBEE6-96F1-444E-9E9F-380E40633947}
+		{A215260B-68CC-4FCC-BCE6-CA8CCB9C412C} = {79B222A9-82A2-4CEC-86A7-B323F5D7E8A0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2768CE21-5EF7-4941-B8C4-B942BC93BD66}
+	EndGlobalSection
+EndGlobal
